@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Eremeev Vecheslav",
+  "license": "ISC",
+  "description": ""
+}
